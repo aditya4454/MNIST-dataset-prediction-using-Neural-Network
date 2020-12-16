@@ -29,4 +29,3 @@ $ pip install numpy
 * There is Also a Result Folder which contains images of my prediction. 
 
 
-
