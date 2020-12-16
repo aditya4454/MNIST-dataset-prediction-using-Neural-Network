@@ -1,4 +1,4 @@
-# MNIST dataset using Keras(Neural Net) and visualition using opencv (Deep Learning)
+# Training Model for MNIST dataset using Keras(Neural Net) and visualition using opencv (Deep Learning)
 
 
 ## General info
